@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ludovica Perroni 👋
 
-<!--
-**ludovicap/ludovicap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate from the University of Calabria (2024)  
+🤖 MSc Student in Robotics & Automation Engineering  
 
-Here are some ideas to get you started:
+## About Me
+Passionate about Artificial Intelligence, Robotics, Intelligent Systems and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Java
+- VHDL
+- MATLAB / Simulink
+- CODESYS
+- Factory I/O
+- UPPAAL
+- PIPE
+- ROS2
+
+## Operating Systems
+- Windows
+- macOS
+- Ubuntu/Linux
+
+## Interests
+- Robotics
+- AI & Explainable AI
+- Autonomous Systems
+- Industrial Automation
+
+## Thesis
+**“Explainable Anomaly Detection for Brain Tumor Identification in Neuro-Oncology”**
+
+## Connect with Me
+- LinkedIn: [https://www.linkedin.com/in/ludovica-perroni-718958397]
