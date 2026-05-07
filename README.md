@@ -41,13 +41,13 @@ Passionate about Artificial Intelligence, Robotics, Intelligent Systems and Auto
 
 ## Thesis
 **“Explainable Anomaly Detection for Brain Tumor Identification in Neuro-Oncology”**
+- [Thesis](https://github.com/ludovicap/Tesi-Triennale.git)
 
 ## 📂 My Projects
 
 ### 🎓 BSc Projects (Computer Engineering)
 
 Projects developed during my Bachelor's degree in Computer Engineering.
-
 
 ---
 
