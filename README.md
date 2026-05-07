@@ -48,20 +48,19 @@ Passionate about Artificial Intelligence, Robotics, Intelligent Systems and Auto
 
 Projects developed during my Bachelor's degree in Computer Engineering.
 
-- [Industrial Automation](https://github.com/ludovicap/Industrial-Automation)
-- [Cyber Physical Systems](https://github.com/ludovicap/Cyber-Physical-Systems)
-- [Dynamical Systems Theory](https://github.com/ludovicap/Dynamical-Systems-Theory)
-- [Adaptive Therapy RL](https://github.com/ludovicap/adaptive-therapy-rl)
 
 ---
 
 ### 🎓 MSc Projects (Robotics & Automation Engineering)
 
 Projects related to robotics, control systems, automation and advanced engineering topics.
-
+- [Industrial Automation](https://github.com/ludovicap/Industrial-Automation)
+- [Cyber Physical Systems](https://github.com/ludovicap/Cyber-Physical-Systems)
+- [Dynamical Systems Theory](https://github.com/ludovicap/Dynamical-Systems-Theory)
 - [Vehicle Control Module 1](https://github.com/ludovicap/Vehicle_Control_Module1)
 - [Vehicle Control Module 2](https://github.com/ludovicap/Vehicle_Control_Module_2)
 - [Programmazione di Sistemi Tempo Reale e Distribuiti](https://github.com/ludovicap/Programmazione-di-sistemi-Tempo-Reale-e-distribuiti)
+- [Adaptive Therapy RL](https://github.com/ludovicap/adaptive-therapy-rl)
 
 ---
 
