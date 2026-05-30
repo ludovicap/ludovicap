@@ -101,12 +101,15 @@ Projects related to robotics, control systems, automation and advanced engineeri
 - [Industrial Automation](https://github.com/ludovicap/Industrial-Automation)
 - [Cyber Physical Systems](https://github.com/ludovicap/Cyber-Physical-Systems)
 - [Dynamical Systems Theory](https://github.com/ludovicap/Dynamical-Systems-Theory)
-- [Vehicle Control Module 1](https://github.com/ludovicap/Vehicle_Control_Module1)
-- [Vehicle Control Module 2](https://github.com/ludovicap/Vehicle_Control_Module_2)
 - [Programmazione di Sistemi Tempo Reale e Distribuiti](https://github.com/ludovicap/Programmazione-di-sistemi-Tempo-Reale-e-distribuiti)
-- [Intelligent Systems for Robotics - PacMan Project](https://github.com/ludovicap/Intelligent-Systems-for-Robotics.git)
-- [Intelligent Systems for Robotics - BrainTumor Project](https://github.com/ludovicap/Brain-Tumor-Detection-RL-YOLOv8-XAI.git)
 
+### 🚗 Vehicle Control Collection
+
+- [Vehicle Control Projects](https://github.com/stars/ludovicap/lists/vehicle-control)
+
+### 🤖 Intelligent Systems for Robotics Collection
+
+- [Intelligent Systems for Robotics Projects](https://github.com/stars/ludovicap/lists/intelligent-systems-for-robotics)
 ---
 
 ## 🚀 Current Focus
