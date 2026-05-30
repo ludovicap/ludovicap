@@ -60,7 +60,8 @@ Projects related to robotics, control systems, automation and advanced engineeri
 - [Vehicle Control Module 1](https://github.com/ludovicap/Vehicle_Control_Module1)
 - [Vehicle Control Module 2](https://github.com/ludovicap/Vehicle_Control_Module_2)
 - [Programmazione di Sistemi Tempo Reale e Distribuiti](https://github.com/ludovicap/Programmazione-di-sistemi-Tempo-Reale-e-distribuiti)
-- [Adaptive Therapy RL](https://github.com/ludovicap/adaptive-therapy-rl)
+- [Intelligent Systems for Robotics - PacMan Project](https://github.com/ludovicap/Intelligent-Systems-for-Robotics.git)
+- [Intelligent Systems for Robotics - BrainTumor Project](https://github.com/ludovicap/Brain-Tumor-Detection-RL-YOLOv8-XAI.git)
 
 ---
 
