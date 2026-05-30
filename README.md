@@ -17,6 +17,7 @@ Passionate about Artificial Intelligence, Robotics, Intelligent Systems and Auto
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![Simulink](https://img.shields.io/badge/Simulink-darkorange?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge)
+![Maple](https://img.shields.io/badge/Maple-red?style=for-the-badge)
 ![CODESYS](https://img.shields.io/badge/CODESYS-red?style=for-the-badge)
 ![Factory I/O](https://img.shields.io/badge/Factory_IO-black?style=for-the-badge)
 ![UPPAAL](https://img.shields.io/badge/UPPAAL-purple?style=for-the-badge)
