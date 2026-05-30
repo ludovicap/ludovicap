@@ -83,6 +83,17 @@ Interested in Reinforcement Learning, Explainable AI, Medical Imaging and Autono
 
 # 📂 Academic Projects
 
+## 🚀 Featured Projects
+
+⭐ Brain Tumor Detection using Reinforcement Learning, YOLOv8 and XAI  
+🔗 https://github.com/ludovicap/Brain-Tumor-Detection-RL-YOLOv8-XAI
+
+⭐ Vehicle Control Module 1  
+🔗 https://github.com/ludovicap/Vehicle_Control_Module1
+
+⭐ Vehicle Control Module 2  
+🔗 https://github.com/ludovicap/Vehicle_Control_Module_2
+
 ## 🤖 MSc Projects (Robotics & Automation Engineering)
 
 Projects related to robotics, control systems, automation and advanced engineering topics.
@@ -108,11 +119,9 @@ Projects related to robotics, control systems, automation and advanced engineeri
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ludovicap&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovicap&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=ludovicap)
 
 ---
 
