@@ -1,5 +1,7 @@
 # Hi, I'm Ludovica Perroni 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=ludovicap&color=blue)
+
 🎓 Computer Engineering Graduate from the University of Calabria (2024)  
 🤖 MSc Student in Robotics & Automation Engineering  
 
