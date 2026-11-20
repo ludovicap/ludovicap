@@ -99,13 +99,11 @@ Application of reinforcement learning, computer vision, and explainable artifici
 - [Programmazione di Sistemi Tempo Reale e Distribuiti](https://github.com/ludovicap/Programmazione-di-sistemi-Tempo-Reale-e-distribuiti)
 - [Embedded Systems Programming](http://github.com/ludovicap/Embedded-Systems-Programming)
 
-### 📚 Project Collections
+  📚 Project Collections
 
-🚗 [Vehicle Control Projects](https://github.com/stars/ludovicap/lists/vehicle-control)
+    🚗 [Vehicle Control Projects](https://github.com/stars/ludovicap/lists/vehicle-control)
 
-###  Intelligent Systems for Robotics Collection
-
-🤖 [Intelligent Systems for Robotics Projects](https://github.com/stars/ludovicap/lists/intelligent-systems-for-robotics)
+    🤖 [Intelligent Systems for Robotics Projects](https://github.com/stars/ludovicap/lists/intelligent-systems-for-robotics)
 
 ---
 
