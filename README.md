@@ -71,24 +71,6 @@ I'm particularly interested in developing intelligent and autonomous systems, co
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Brain Tumor Detection using Reinforcement Learning, YOLOv8 & XAI
-
-Application of reinforcement learning, computer vision, and explainable artificial intelligence to medical image analysis.
-
-[View Repository](https://github.com/ludovicap/Brain-Tumor-Detection-RL-YOLOv8-XAI)
-
-### 🚗 Vehicle Control – Module 1
-
-[View Repository](https://github.com/ludovicap/Vehicle_Control_Module1)
-
-### 🚗 Vehicle Control – Module 2
-
-[View Repository](https://github.com/ludovicap/Vehicle_Control_Module_2)
-
----
-
 ## 📂 Academic Projects
 
 ### 🤖 MSc Projects – Robotics & Automation Engineering
@@ -98,12 +80,8 @@ Application of reinforcement learning, computer vision, and explainable artifici
 - [Dynamical Systems Theory](https://github.com/ludovicap/Dynamical-Systems-Theory)
 - [Programmazione di Sistemi Tempo Reale e Distribuiti](https://github.com/ludovicap/Programmazione-di-sistemi-Tempo-Reale-e-distribuiti)
 - [Embedded Systems Programming](http://github.com/ludovicap/Embedded-Systems-Programming)
-
-  📚 Project Collections
-
-    🚗 [Vehicle Control Projects](https://github.com/stars/ludovicap/lists/vehicle-control)
-
-    🤖 [Intelligent Systems for Robotics Projects](https://github.com/stars/ludovicap/lists/intelligent-systems-for-robotics)
+- [Vehicle Control Projects](https://github.com/stars/ludovicap/lists/vehicle-control)
+- [Intelligent Systems for Robotics Projects](https://github.com/stars/ludovicap/lists/intelligent-systems-for-robotics)
 
 ---
 
